@@ -1,0 +1,9 @@
+Название:                         Comp1
+Название ОС:                      Microsoft Windows 7 
+Версия:                        6.1.7601 Service Pack 1  7601
+Изготовитель системы:                  Microsoft Corporation
+
+Код продукта:                     00971-OEM-1982661-00231
+
+Тип системы:                      x64-based PC
+
